@@ -25,7 +25,6 @@ Click==7.0
 clickclick==20.10.2
 colorama==0.4.3
 colorlog==4.0.2
-command-not-found==0.3
 commonmark==0.9.1
 connexion==2.7.0
 croniter==0.3.37
