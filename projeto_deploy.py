@@ -9,8 +9,6 @@ import pandas as pd
 from sklearn.tree import DecisionTreeClassifier 
 from sklearn.tree import export_graphviz
 from six import StringIO
-from IPython.display import Image  
-import pydotplus
 from sklearn import datasets
 
 
