@@ -29,7 +29,6 @@ commonmark==0.9.1
 connexion==2.7.0
 croniter==0.3.37
 cryptography==2.8
-cupshelpers==1.0
 dbus-python==1.2.16
 decorator==4.4.2
 defer==1.0.6
