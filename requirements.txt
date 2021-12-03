@@ -116,7 +116,6 @@ psutil==5.5.1
 psycopg2==2.8.6
 psycopg2-binary==2.8.6
 ptyprocess==0.6.0
-pyarrow==2.0.0
 pyasn1==0.4.2
 pycairo==1.16.2
 pycparser==2.20
