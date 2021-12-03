@@ -161,7 +161,6 @@ sqlparse==0.2.4
 sshtunnel==0.1.4
 streamlit==0.71.0
 swagger-ui-bundle==0.0.8
-system-service==0.3
 systemd-python==234
 tabulate==0.8.7
 tenacity==6.2.0
